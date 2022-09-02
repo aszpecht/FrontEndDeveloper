@@ -1,0 +1,1 @@
+module.exports = "Witaj na naszym kursie";

@@ -1,0 +1,22 @@
+{
+  "name": "frontenddeveloper2",
+  "description": "Workshops for working with Git kolejna zmiana w tym wierszu siema z tego wiersza",
+  "version": "1.0.0",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniasieuczy/FrontEndDeveloper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniasieuczy/FrontEndDeveloper/issues"
+  },
+  "homepage": "https://github.com/aniasieuczy/FrontEndDeveloper#readme",
+  "dependencies": {
+    "formidable": "^2.0.1"
+  }
+}
